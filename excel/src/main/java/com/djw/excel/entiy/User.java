@@ -1,5 +1,10 @@
 package com.djw.excel.entiy;
 
+/**
+ * @Author djw
+ * @Description 演示所创建的对象
+ * @Date 2018/9/5 14:52
+ */
 public class User {
     Integer userId;
     String userName;
